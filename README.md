@@ -1,4 +1,4 @@
-<img src="app/src/main/res/drawable-v24/icon.png"/>
+<img src="app/src/main/res/drawable-v24/icon.png" width=100/>
 #Affirmations
 
 => Kotlin<br>
